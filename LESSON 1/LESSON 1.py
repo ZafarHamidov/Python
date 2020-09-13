@@ -1,0 +1,5 @@
+print(" ///////// ")
+print("C| o   o |D")
+print(" |   v   |")
+print(" | (___) |")
+print(" L_______J")

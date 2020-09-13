@@ -1,0 +1,1 @@
+a = int(input())if (a < 20) and (a > 10):	print("Mne" ,a, "let")elif (a % 10 == 1):	print("Mne" ,a, "god")elif (a % 10 == 2) or (a % 10 == 3) or (a % 10 == 4):	print("Mne" ,a, "goda")else:	print("Mne" ,a, "let")
