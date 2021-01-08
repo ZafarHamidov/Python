@@ -17,7 +17,7 @@ class Human:
     def get_height(self):
         return self.height
 
-        
+
 z = Human(name="Zafar",age=11,weight=42,height=152)
 f = Human(name="Frank",age=56,weight=101,height=172)
 
