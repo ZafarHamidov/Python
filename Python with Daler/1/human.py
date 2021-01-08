@@ -22,4 +22,4 @@ z = Human(name="Zafar",age=11,weight=42,height=152)
 f = Human(name="Frank",age=56,weight=101,height=172)
 
 print('Hi my name is', z.name, 'and I am', z.age, 'years old', z.height, 'meters high')
-print('Hi my name is', f.name, 'and I am', f.age, 'years old')
+print('Hi my name is', f.name, 'and I am', f.age, 'years old', f.height, 'meters high')
